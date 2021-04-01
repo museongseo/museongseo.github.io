@@ -1,8 +1,8 @@
 ---
-layout: post  
+layout: post
 title: Markdown 기본 문법 (Markdown Basic Syntax)  
-comments: true  
-tags: 
+tags: [markdown, jekyll, blog]
+image: 
 ---
 
 # Markdown Basic Syntax

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Python Error :  ValueError: invalid literal for int() with base 10: ''
+title: Python Error - ValueError : invalid literal for int() with base 10
 tags: [error, python, jupyter]
 image: 
 ---
